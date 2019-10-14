@@ -1,3 +1,4 @@
-Git is a distributed version control system.
+Git is a distributed version conte trol system.
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+Git haindex called stage.exxdt.	OB
+Git tracks changes
